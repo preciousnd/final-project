@@ -17,7 +17,7 @@ let shopItemsData = [
     id: "e5522eshh",
     name: "12 inches Piano bone straight",
     price: 42,
-    desc: "This is our finest collection of Premium Lushious human Soft Hair made with silky texture for wear which is at a purse friendly and affordable price just for you. This hair is very versatile for all occasion, easy to style it gives a unique and eye catching look.This hair can be worn straight or curled to your preference.",
+    desc: "This is our finest collection of Premium Lushious human Soft Hair made with silky texture for wear which is at a purse friendly and affordable price just for you. This hair is very versatile for all occasion, easy to style it gives a unique and eye catching look.",
     img: "images.jpg",
   },
   {
